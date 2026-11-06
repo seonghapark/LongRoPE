@@ -1,0 +1,2 @@
+mosaicml-streaming>=0.10,<0.14
+transformers==4.45.2
